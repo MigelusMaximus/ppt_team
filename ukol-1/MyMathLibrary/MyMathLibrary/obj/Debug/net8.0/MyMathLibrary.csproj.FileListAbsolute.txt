@@ -1,0 +1,11 @@
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.deps.json
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.dll
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.pdb
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.AssemblyInfoInputs.cache
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.AssemblyInfo.cs
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.dll
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\refint\MyMathLibrary.dll
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.pdb
+C:\Users\amberlight\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\net8.0\ref\MyMathLibrary.dll

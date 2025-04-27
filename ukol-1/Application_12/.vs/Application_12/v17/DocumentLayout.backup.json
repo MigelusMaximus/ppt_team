@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amberlight\\Desktop\\Application_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Zavislosti.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Zavislosti.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Application_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Application_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Tool_Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Tool_Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Obdelnik_IO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Obdelnik_IO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Fce_Obdelnik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97409538-6F38-4240-A8F6-72C6AD7FDDD0}|Application_12\\Application_12.vcxproj|solutionrelative:Application_12\\Fce_Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application_12.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Application_12.cpp",
+              "RelativeDocumentMoniker": "Application_12\\Application_12.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Application_12.cpp",
+              "RelativeToolTip": "Application_12\\Application_12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:31:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.h",
+              "RelativeDocumentMoniker": "Application_12\\pch.h",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.h",
+              "RelativeToolTip": "Application_12\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T14:09:38.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zavislosti.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.cpp",
+              "RelativeDocumentMoniker": "Application_12\\Zavislosti.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.cpp",
+              "RelativeToolTip": "Application_12\\Zavislosti.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:59:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zavislosti.h",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.h",
+              "RelativeDocumentMoniker": "Application_12\\Zavislosti.h",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Zavislosti.h",
+              "RelativeToolTip": "Application_12\\Zavislosti.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T13:59:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Obdelnik_IO.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.cpp",
+              "RelativeDocumentMoniker": "Application_12\\Obdelnik_IO.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.cpp",
+              "RelativeToolTip": "Application_12\\Obdelnik_IO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:36:20.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obdelnik_IO.h",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.h",
+              "RelativeDocumentMoniker": "Application_12\\Obdelnik_IO.h",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Obdelnik_IO.h",
+              "RelativeToolTip": "Application_12\\Obdelnik_IO.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T13:35:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tool_Obdelnik.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Tool_Obdelnik.cpp",
+              "RelativeDocumentMoniker": "Application_12\\Tool_Obdelnik.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Tool_Obdelnik.cpp",
+              "RelativeToolTip": "Application_12\\Tool_Obdelnik.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:32:11.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.cpp",
+              "RelativeDocumentMoniker": "Application_12\\pch.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\pch.cpp",
+              "RelativeToolTip": "Application_12\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:32:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fce_Obdelnik.h",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.h",
+              "RelativeDocumentMoniker": "Application_12\\Fce_Obdelnik.h",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.h",
+              "RelativeToolTip": "Application_12\\Fce_Obdelnik.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T13:45:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fce_Obdelnik.cpp",
+              "DocumentMoniker": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.cpp",
+              "RelativeDocumentMoniker": "Application_12\\Fce_Obdelnik.cpp",
+              "ToolTip": "C:\\Users\\amberlight\\Desktop\\Application_12\\Application_12\\Fce_Obdelnik.cpp",
+              "RelativeToolTip": "Application_12\\Fce_Obdelnik.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T13:32:07.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
