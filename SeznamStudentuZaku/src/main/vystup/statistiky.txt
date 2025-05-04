@@ -1,0 +1,56 @@
+Statistika prospěchu
+==========================================
+
+Třída: 7A
+------------------------------------------
+Průměr třídy: 1,67
+
+Průměry předmětů:
+Matematika: 2,00
+Fyzika: 1,33
+Informatika: 2,00
+Tělesná výchova: 2,00
+Český jazyk: 1,00
+
+Průměry studentů:
+Jan Novák: 1,60
+Petra Černá: 2,00
+Tomáš Vlček: 1,40
+
+
+
+Třída: 7B
+------------------------------------------
+Průměr třídy: 1,60
+
+Průměry předmětů:
+Matematika: 1,33
+Fyzika: 2,00
+Informatika: 1,33
+Tělesná výchova: 1,67
+Český jazyk: 1,67
+
+Průměry studentů:
+Eva Malá: 1,80
+David Svoboda: 1,20
+Pavel Nový: 1,80
+
+
+
+Třída: 7C
+------------------------------------------
+Průměr třídy: 2,00
+
+Průměry předmětů:
+Matematika: 2,00
+Fyzika: 2,00
+Informatika: 2,00
+Tělesná výchova: 2,00
+Český jazyk: 2,00
+
+Průměry studentů:
+Anna Novotná: 1,00
+Martin Král: 2,00
+Lucie Kovářová: 3,00
+
+

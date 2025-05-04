@@ -1,0 +1,5 @@
+7B
+3
+Student{id=1, firstName='Eva', lastName='Malá', grades={CJ=2, MAT=1, FYZ=3, TV=1, IT=2}}
+Student{id=2, firstName='David', lastName='Svoboda', grades={CJ=1, MAT=2, FYZ=1, TV=1, IT=1}}
+Student{id=3, firstName='Pavel', lastName='Nový', grades={CJ=2, MAT=1, FYZ=2, TV=3, IT=1}}

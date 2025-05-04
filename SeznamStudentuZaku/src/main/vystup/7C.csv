@@ -1,0 +1,5 @@
+7C
+3
+Student{id=1, firstName='Anna', lastName='Novotná', grades={CJ=1, MAT=1, FYZ=1, TV=1, IT=1}}
+Student{id=2, firstName='Martin', lastName='Král', grades={CJ=2, MAT=2, FYZ=2, TV=2, IT=2}}
+Student{id=3, firstName='Lucie', lastName='Kovářová', grades={CJ=3, MAT=3, FYZ=3, TV=3, IT=3}}
